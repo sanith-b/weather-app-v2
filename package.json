@@ -1,0 +1,22 @@
+{
+  "name": "weather-lottie-pwa",
+  "version": "1.0.0",
+  "description": "Weather web app with city search, Lottie icons, Chart.js, Firebase, and PWA features",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "chart.js": "^4.4.0",
+    "firebase": "^10.12.2",
+    "lottie-react": "^2.4.0",
+    "react": "^18.2.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.0",
+    "vite": "^5.2.0"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "short_name": "WeatherLottie",
+  "name": "Weather App with Lottie & PWA",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "background_color": "#181c20",
+  "display": "standalone",
+  "theme_color": "#007bff",
+  "description": "A weather app with advanced features and animated icons",
+  "scope": "."
+}
